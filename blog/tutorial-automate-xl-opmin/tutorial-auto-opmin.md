@@ -18,4 +18,4 @@
 
 ### 5. Buka flow `REG-UNREG-Opmin-XL`
 
-![menu-flow]()
+![menu-flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/menu-flow.jpg)
