@@ -2,7 +2,7 @@
 
 ----
 
-### 1. Download & Install APK [Automate](https://play.google.com/store/apps/details?id=com.llamalab.automate)
+### 1. Download & Install aplikasi [Automate](https://play.google.com/store/apps/details?id=com.llamalab.automate)
 
 ![Alt text](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/automate-playstore.png)
 
@@ -10,7 +10,7 @@
 
 > https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/REG-UNREG-Opmin-XL.flo
 
-### 3. Buka APK Automate
+### 3. Buka aplikasi Automate
 
 ### 4. Import config `REG-UNREG-Opmin-XL.flo` ke dalam aplikasi Automate
 
@@ -29,8 +29,8 @@
 ------------ | ------------- | -------------
 ![choose-pencil](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/choose-pencil.jpg)| ![choose-flowchart](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/choose-flowchart.jpg) | ![flow-chart](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/flow-chart.jpg)
 
-### Disini kita akan ubah `Subscription id ` dan `SIM Slot` ke XL
+### 7. Disini kita akan ubah `Subscription id ` dan `SIM Slot` ke XL
 
 1 | 2 | 3
 ------------ | ------------- | -------------
-![sms-send](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/sms-send.jpg)| ![sms-received](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/sms-received.jpg) | ![flow-chart](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/call-number.jpg)
+![sms-send](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/sms-send-1.jpg)| ![sms-received](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/sms-received-1.jpg) | ![flow-chart](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/call-number-1.jpg)
