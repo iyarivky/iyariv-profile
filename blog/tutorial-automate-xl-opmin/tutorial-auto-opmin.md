@@ -39,7 +39,7 @@ SMS Send | SMS Received | Call Number
 ------------ | ------------- | -------------
 ![sms-send](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/sms-send-1.jpg)| ![sms-received](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/sms-received-1.jpg) | ![flow-chart](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/call-number-1.jpg)
 
-### 8. Setelah semua `Subscription id ` dan `SIM Slot` yang ada di SMS Send, SMS Received, dan Call Number diubah ke XL. Kita akan buat shortcut Flow-nya. Pertama kita tekan bagan `Flow Beginning`
+### 8. Setelah semua `Subscription id ` dan `SIM Slot` yang ada di `SMS Send`, `SMS Received`, dan `Call Number` diubah ke XL. Kita akan buat shortcut Flow-nya. Pertama kita tekan bagan `Flow Beginning`
 
 ![flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/flow-beginning.jpg)
 
@@ -47,8 +47,8 @@ SMS Send | SMS Received | Call Number
 
 1 | 2
 ------------ | -------------
-![flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/flow-beginning-edit.jpg)| ![grant-flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/grant-flow.jpg)
+![flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/flow-beginning-edit.jpg)| ![grant-flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/flow-shortcut.jpg)
 
-
+### 10. Shortcut sudah siap dipakai
 
 ![flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/hasil-shortcut.jpg)
