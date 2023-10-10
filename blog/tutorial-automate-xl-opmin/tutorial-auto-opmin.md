@@ -12,6 +12,8 @@
 
 ### 3. Buka aplikasi Automate
 
+![start-menu](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/start-menu.jpg)
+
 ### 4. Import config `REG-UNREG-Opmin-XL.flo` ke dalam aplikasi Automate
 
 ![import-config](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/import-config.webp)
@@ -34,3 +36,8 @@
 1 | 2 | 3
 ------------ | ------------- | -------------
 ![sms-send](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/sms-send-1.jpg)| ![sms-received](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/sms-received-1.jpg) | ![flow-chart](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/call-number-1.jpg)
+
+### 8. Setelah semua `Subscription id ` dan `SIM Slot` ke XL. Pilih 
+
+
+![flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/hasil-shortcut.jpg)
