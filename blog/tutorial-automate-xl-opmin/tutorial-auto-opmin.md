@@ -16,6 +16,15 @@
 
 ![import-config](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/import-config.webp)
 
-### 5. Buka flow `REG-UNREG-Opmin-XL`
+### 5. Buka flow `REG-UNREG-Opmin-XL`, lalu centang semua Privileges-nya
 
-![menu-flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/menu-flow.jpg)
+1 | 2
+------------ | -------------
+![menu-flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/menu-flow.jpg)| ![grant-flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/grant-flow.jpg)
+
+
+### 6. Tekan logo "pensil" di pojok kanan bawah , lalu tekan logo "flow chart" 
+
+1 | 2
+------------ | -------------
+![menu-flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/menu-flow.jpg)| ![grant-flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/grant-flow.jpg)
