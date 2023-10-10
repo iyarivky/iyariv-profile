@@ -23,8 +23,14 @@
 ![menu-flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/menu-flow.jpg)| ![grant-flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/grant-flow.jpg)
 
 
-### 6. Tekan logo "pensil" di pojok kanan bawah , lalu tekan logo "flow chart" 
+### 6. Tekan logo "pensil" di pojok kanan bawah , lalu tekan logo "flow chart". Maka akan muncul grafik Flow Chart di dalamnya
 
-1 | 2
------------- | -------------
-![menu-flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/menu-flow.jpg)| ![grant-flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/grant-flow.jpg)
+1 | 2 | 3
+------------ | ------------- | -------------
+![choose-pencil](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/choose-pencil.jpg)| ![choose-flowchart](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/choose-flowchart.jpg) | ![flow-chart](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/flow-chart.jpg)
+
+### Disini kita akan ubah `Subscription id ` dan `SIM Slot` ke XL
+
+1 | 2 | 3
+------------ | ------------- | -------------
+![sms-send](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/sms-send.jpg)| ![sms-received](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/sms-received.jpg) | ![flow-chart](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/call-number.jpg)
