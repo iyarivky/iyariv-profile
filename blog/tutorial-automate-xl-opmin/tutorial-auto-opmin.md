@@ -31,13 +31,24 @@
 ------------ | ------------- | -------------
 ![choose-pencil](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/choose-pencil.jpg)| ![choose-flowchart](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/choose-flowchart.jpg) | ![flow-chart](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/flow-chart.jpg)
 
-### 7. Disini kita akan ubah `Subscription id ` dan `SIM Slot` ke XL
+### 7. Disini kita akan ubah `Subscription id ` dan `SIM Slot` yang ada di `SMS Send`, `SMS Received`, dan `Call Number` menjadi `XL`
 
-1 | 2 | 3
+![sms-send](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/choose-diagram.jpg)
+
+SMS Send | SMS Received | Call Number
 ------------ | ------------- | -------------
 ![sms-send](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/sms-send-1.jpg)| ![sms-received](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/sms-received-1.jpg) | ![flow-chart](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/call-number-1.jpg)
 
-### 8. Setelah semua `Subscription id ` dan `SIM Slot` ke XL. Pilih 
+### 8. Setelah semua `Subscription id ` dan `SIM Slot` yang ada di SMS Send, SMS Received, dan Call Number diubah ke XL. Kita akan buat shortcut Flow-nya. Pertama kita tekan bagan `Flow Beginning`
+
+![flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/flow-beginning.jpg)
+
+### 9. Ubah title sesuai selera (disini saya namakan "REG UNREG"), lalu tekan `INSTALL HOME SCREEN SHORTCUT`, lalu tekan OK
+
+1 | 2
+------------ | -------------
+![flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/flow-beginning-edit.jpg)| ![grant-flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/grant-flow.jpg)
+
 
 
 ![flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/hasil-shortcut.jpg)
