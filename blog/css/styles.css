@@ -1,6 +1,8 @@
 body{
     background-color: white;
-    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    max-width: 90%;
+    width: 90%;
+    margin: auto
    }
 
 h1{
@@ -9,4 +11,12 @@ h1{
 
 h2 {
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 90%;
+  max-height: auto;
 }
