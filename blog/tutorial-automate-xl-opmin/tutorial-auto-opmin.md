@@ -1,4 +1,5 @@
 # Tutorial Automasi UNREG - REG Paket Opmin XL dengan Aplikasi Automate
+
 ----
 
 ### 1. Download & Install APK [Automate](https://play.google.com/store/apps/details?id=com.llamalab.automate)
@@ -14,3 +15,7 @@
 ### 4. Import config `REG-UNREG-Opmin-XL.flo` ke dalam aplikasi Automate
 
 ![import-config](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/import-config.webp)
+
+### 5. Buka flow `REG-UNREG-Opmin-XL`
+
+![menu-flow]()
