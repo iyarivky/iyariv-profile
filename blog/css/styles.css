@@ -60,3 +60,10 @@ img {
   text-decoration: none; /* Remove underline from link */
   font-size: 15px;
 }
+
+.kaki {
+  text-align: center;
+  margin: auto;
+  padding-top: 27px;
+  padding-bottom: 20px;
+}
