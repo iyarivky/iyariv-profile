@@ -2,7 +2,7 @@
 
 <div class="header">
   <div class="author-info">
-    <img src="https://raw.githubusercontent.com/IQAndreas/sample-images/gh-pages/100-100-color/01.jpg" alt="Profile Picture" class="profile-pic">
+    <img src="https://iyariv.deno.dev/media/kucing-melet.jpg" alt="Profile Picture" class="profile-pic">
     <div class="author-name">Iya Rivvikyn</div>
   </div>
   <a href="https://t.me/iya_rivvikyn" ><button class="follow-btn">Follow</button></a>
