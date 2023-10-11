@@ -9,6 +9,8 @@
 </div>
 
 ----
+
+![sampul](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/sampul-auto-opmin.webp)
     
 ### 1. Download & Install aplikasi [Automate](https://play.google.com/store/apps/details?id=com.llamalab.automate)
     
