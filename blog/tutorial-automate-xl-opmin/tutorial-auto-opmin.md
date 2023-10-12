@@ -68,7 +68,7 @@ SMS Send | SMS Received | Call Number
 
   1 | 2
   ------------ | -------------
-  ![flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/flow-beginning-edit.jpg)| ![grant-flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/flow-shortcut.jpg)
+  ![flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/shortcut-problem-1.jpg)| ![grant-flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/shortcut-problem-2.jpg)
 
 ### Bingung ??, tinggal pm [ane](https://t.me/iya_rivvikyn)
 
