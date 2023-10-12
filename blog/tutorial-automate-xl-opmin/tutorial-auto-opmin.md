@@ -62,6 +62,14 @@ SMS Send | SMS Received | Call Number
     
 ![flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/hasil-shortcut.jpg)
 
+### ⚠️ Common Problem
+
+* Shortcut tidak muncul walau sudah menekan `INSTALL HOME SCREEN SHORTCUT` bisa diatasi dengan seperti ini
+
+  1 | 2
+  ------------ | -------------
+  ![flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/flow-beginning-edit.jpg)| ![grant-flow](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/flow-shortcut.jpg)
+
 ### Bingung ??, tinggal pm [ane](https://t.me/iya_rivvikyn)
 
 ![kucing-wawancara](https://iyariv.deno.dev/blog/tutorial-automate-xl-opmin/media/kucing-wawancara.webp)
